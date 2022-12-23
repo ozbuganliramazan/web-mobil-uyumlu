@@ -1,8 +1,8 @@
-<h1>Resposi  mobil oyummlu web</h1>
+<h1>Responsive mobile friendly web/h1>
 
 
 
-<p>Html Css Js mobil uyumlu veb sayfa </p>
+<p> Html Css Js mobile compatible web page/p>
 
 
 
